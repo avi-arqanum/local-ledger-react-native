@@ -1,4 +1,4 @@
-import PeerConnection from "../../peer";
+import PeerConnection from "./peer";
 
 const transactionManagerId =
 	"046eca335d9645307db441656ef4e65b4bfc579b27452bebc19bd870aa1118e5c3d50123b57a7a0710592f579074b875a03a496a3a3bf8ec34498a2f7805a08668";
